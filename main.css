@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1 {
+    background-color: rgba(161, 3, 3, 0.829);
+    padding-top: 4em;
+}
+p {
+    margin:2em 0;
+}
+a:hover {color: red;}
+a:focus {color: violet;}
+a:active {color: green;}
+        
